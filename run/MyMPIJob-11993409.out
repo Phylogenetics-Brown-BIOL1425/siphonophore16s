@@ -1,0 +1,326 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 11993409
+##  Job Name : MyMPIJob
+##  Nodelist : smp014
+##      CPUs : 8
+##   Mem/CPU : 2800 MB
+## Directory : /gpfs/scratch/guest312/siphonophore16s/run
+##   Started : Thu Feb 11 14:05:39 EST 2016
+###############################################################################
+module: loading 'raxml/8.0.22'
+
+This is RAxML MPI Process Number: 1
+
+Time for BS model parameter optimization on Process 1: 4.880315 seconds
+Bootstrap[13]: Time 14.594307 seconds, bootstrap likelihood -14615.724472, best rearrangement setting 12
+Bootstrap[14]: Time 8.033817 seconds, bootstrap likelihood -14495.190075, best rearrangement setting 13
+Bootstrap[15]: Time 7.678528 seconds, bootstrap likelihood -14323.892785, best rearrangement setting 13
+Bootstrap[16]: Time 6.261534 seconds, bootstrap likelihood -14300.962270, best rearrangement setting 6
+Bootstrap[17]: Time 7.597186 seconds, bootstrap likelihood -14779.513790, best rearrangement setting 7
+Bootstrap[18]: Time 7.328277 seconds, bootstrap likelihood -14456.666512, best rearrangement setting 11
+Bootstrap[19]: Time 6.778089 seconds, bootstrap likelihood -14892.965407, best rearrangement setting 10
+Bootstrap[20]: Time 7.558749 seconds, bootstrap likelihood -14409.900500, best rearrangement setting 9
+Bootstrap[21]: Time 6.954514 seconds, bootstrap likelihood -14743.477249, best rearrangement setting 7
+Bootstrap[22]: Time 6.618775 seconds, bootstrap likelihood -14628.119133, best rearrangement setting 12
+Bootstrap[23]: Time 8.256220 seconds, bootstrap likelihood -14896.272603, best rearrangement setting 10
+Bootstrap[24]: Time 7.922320 seconds, bootstrap likelihood -14848.472131, best rearrangement setting 6
+Bootstrap[25]: Time 7.178375 seconds, bootstrap likelihood -14996.189376, best rearrangement setting 15
+Fast ML search on Process 1: Time 187.327225 seconds
+
+Slow ML Search 13 Likelihood: -14687.974505
+Slow ML Search 14 Likelihood: -14687.974505
+Slow ML search on Process 1: Time 85.496214 seconds
+Thorough ML search on Process 1: Time 53.360068 seconds
+
+processID = 1, bestLH = -14687.974516
+
+This is RAxML MPI Process Number: 5
+
+Time for BS model parameter optimization on Process 5: 4.878672 seconds
+Bootstrap[65]: Time 12.407713 seconds, bootstrap likelihood -15001.366894, best rearrangement setting 6
+Bootstrap[66]: Time 7.985552 seconds, bootstrap likelihood -14502.924202, best rearrangement setting 15
+Bootstrap[67]: Time 7.034013 seconds, bootstrap likelihood -14381.652903, best rearrangement setting 6
+Bootstrap[68]: Time 7.462491 seconds, bootstrap likelihood -15295.891104, best rearrangement setting 13
+Bootstrap[69]: Time 8.013312 seconds, bootstrap likelihood -14850.062975, best rearrangement setting 14
+Bootstrap[70]: Time 6.909062 seconds, bootstrap likelihood -15089.029290, best rearrangement setting 5
+Bootstrap[71]: Time 7.482229 seconds, bootstrap likelihood -14307.654549, best rearrangement setting 5
+Bootstrap[72]: Time 8.292795 seconds, bootstrap likelihood -14520.816984, best rearrangement setting 11
+Bootstrap[73]: Time 7.506569 seconds, bootstrap likelihood -14311.998129, best rearrangement setting 14
+Bootstrap[74]: Time 9.530393 seconds, bootstrap likelihood -14194.986905, best rearrangement setting 11
+Bootstrap[75]: Time 7.569704 seconds, bootstrap likelihood -15064.463027, best rearrangement setting 10
+Bootstrap[76]: Time 8.119781 seconds, bootstrap likelihood -15310.874329, best rearrangement setting 11
+Bootstrap[77]: Time 7.524240 seconds, bootstrap likelihood -14889.876819, best rearrangement setting 9
+Fast ML search on Process 5: Time 169.572464 seconds
+
+Slow ML Search 65 Likelihood: -14687.974311
+Slow ML Search 66 Likelihood: -14687.974311
+Slow ML search on Process 5: Time 86.770749 seconds
+Thorough ML search on Process 5: Time 53.041171 seconds
+
+processID = 5, bestLH = -14687.974323
+
+Final ML Optimization Likelihood: -14687.974323
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.557424
+Tree-Length: 14.641514
+rate A <-> C: 0.880048
+rate A <-> G: 3.193454
+rate A <-> T: 2.003664
+rate C <-> G: 0.789809
+rate C <-> T: 5.373942
+rate G <-> T: 1.000000
+
+freq pi(A): 0.384078
+freq pi(C): 0.118242
+freq pi(G): 0.164649
+freq pi(T): 0.333031
+
+
+ML search took 327.750840 secs or 0.091042 hours
+
+Combined Bootstrap and ML search took 433.717262 secs or 0.120477 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /gpfs/scratch/guest312/siphonophore16s/run/RAxML_bestTree.boot100
+
+
+
+Found 1 tree in File /gpfs/scratch/guest312/siphonophore16s/run/RAxML_bestTree.boot100
+
+Program execution info written to /gpfs/scratch/guest312/siphonophore16s/run/RAxML_info.boot100
+All 104 bootstrapped trees written to: /gpfs/scratch/guest312/siphonophore16s/run/RAxML_bootstrap.boot100
+
+Best-scoring ML tree written to: /gpfs/scratch/guest312/siphonophore16s/run/RAxML_bestTree.boot100
+
+Best-scoring ML tree with support values written to: /gpfs/scratch/guest312/siphonophore16s/run/RAxML_bipartitions.boot100
+
+Best-scoring ML tree with support values as branch labels written to: /gpfs/scratch/guest312/siphonophore16s/run/RAxML_bipartitionsBranchLabels.boot100
+
+Overall execution time for full ML analysis: 433.904705 secs or 0.120529 hours or 0.005022 days
+
+
+This is RAxML MPI Process Number: 7
+
+Time for BS model parameter optimization on Process 7: 3.741064 seconds
+Bootstrap[91]: Time 11.097275 seconds, bootstrap likelihood -14814.672261, best rearrangement setting 15
+Bootstrap[92]: Time 5.568980 seconds, bootstrap likelihood -14889.975598, best rearrangement setting 5
+Bootstrap[93]: Time 5.278100 seconds, bootstrap likelihood -14885.208906, best rearrangement setting 8
+Bootstrap[94]: Time 5.409245 seconds, bootstrap likelihood -14211.835344, best rearrangement setting 6
+Bootstrap[95]: Time 5.151694 seconds, bootstrap likelihood -14644.189642, best rearrangement setting 6
+Bootstrap[96]: Time 5.655137 seconds, bootstrap likelihood -14691.294403, best rearrangement setting 7
+Bootstrap[97]: Time 6.084817 seconds, bootstrap likelihood -15199.103953, best rearrangement setting 13
+Bootstrap[98]: Time 6.511520 seconds, bootstrap likelihood -13983.740137, best rearrangement setting 11
+Bootstrap[99]: Time 5.296036 seconds, bootstrap likelihood -14283.621241, best rearrangement setting 6
+Bootstrap[100]: Time 5.940421 seconds, bootstrap likelihood -14353.331386, best rearrangement setting 11
+Bootstrap[101]: Time 5.626239 seconds, bootstrap likelihood -14879.236776, best rearrangement setting 5
+Bootstrap[102]: Time 5.197729 seconds, bootstrap likelihood -14735.680979, best rearrangement setting 14
+Bootstrap[103]: Time 5.914124 seconds, bootstrap likelihood -14863.343637, best rearrangement setting 12
+Fast ML search on Process 7: Time 116.495834 seconds
+
+Slow ML Search 91 Likelihood: -14687.975127
+Slow ML Search 92 Likelihood: -14688.534282
+Slow ML search on Process 7: Time 67.774569 seconds
+Thorough ML search on Process 7: Time 40.755718 seconds
+
+processID = 7, bestLH = -14687.975140
+
+This is RAxML MPI Process Number: 6
+
+Time for BS model parameter optimization on Process 6: 3.553382 seconds
+Bootstrap[78]: Time 8.949852 seconds, bootstrap likelihood -14265.001729, best rearrangement setting 5
+Bootstrap[79]: Time 5.384768 seconds, bootstrap likelihood -14642.682607, best rearrangement setting 15
+Bootstrap[80]: Time 5.650237 seconds, bootstrap likelihood -14505.265996, best rearrangement setting 7
+Bootstrap[81]: Time 6.335269 seconds, bootstrap likelihood -15147.283927, best rearrangement setting 15
+Bootstrap[82]: Time 6.866781 seconds, bootstrap likelihood -14784.297540, best rearrangement setting 10
+Bootstrap[83]: Time 5.536372 seconds, bootstrap likelihood -14241.036534, best rearrangement setting 6
+Bootstrap[84]: Time 5.810153 seconds, bootstrap likelihood -14113.389388, best rearrangement setting 9
+Bootstrap[85]: Time 5.139724 seconds, bootstrap likelihood -14455.556830, best rearrangement setting 5
+Bootstrap[86]: Time 5.323908 seconds, bootstrap likelihood -14472.980745, best rearrangement setting 15
+Bootstrap[87]: Time 4.739663 seconds, bootstrap likelihood -14507.582522, best rearrangement setting 6
+Bootstrap[88]: Time 6.017062 seconds, bootstrap likelihood -13505.144548, best rearrangement setting 13
+Bootstrap[89]: Time 4.731772 seconds, bootstrap likelihood -15033.057854, best rearrangement setting 13
+Bootstrap[90]: Time 5.074772 seconds, bootstrap likelihood -14662.932660, best rearrangement setting 5
+Fast ML search on Process 6: Time 117.461572 seconds
+
+Slow ML Search 78 Likelihood: -14687.974642
+Slow ML Search 79 Likelihood: -14687.974642
+Slow ML search on Process 6: Time 60.068790 seconds
+Thorough ML search on Process 6: Time 40.843719 seconds
+
+processID = 6, bestLH = -14687.974654
+
+This is RAxML MPI Process Number: 4
+
+Time for BS model parameter optimization on Process 4: 4.896150 seconds
+Bootstrap[52]: Time 12.504303 seconds, bootstrap likelihood -13849.284468, best rearrangement setting 8
+Bootstrap[53]: Time 6.964422 seconds, bootstrap likelihood -14410.158595, best rearrangement setting 14
+Bootstrap[54]: Time 7.434737 seconds, bootstrap likelihood -14940.845878, best rearrangement setting 5
+Bootstrap[55]: Time 7.907286 seconds, bootstrap likelihood -14590.358238, best rearrangement setting 11
+Bootstrap[56]: Time 7.231826 seconds, bootstrap likelihood -14595.787978, best rearrangement setting 6
+Bootstrap[57]: Time 8.057582 seconds, bootstrap likelihood -15073.415343, best rearrangement setting 15
+Bootstrap[58]: Time 8.553218 seconds, bootstrap likelihood -14588.944897, best rearrangement setting 11
+Bootstrap[59]: Time 7.500433 seconds, bootstrap likelihood -14359.420497, best rearrangement setting 5
+Bootstrap[60]: Time 7.882556 seconds, bootstrap likelihood -14107.289358, best rearrangement setting 12
+Bootstrap[61]: Time 7.665534 seconds, bootstrap likelihood -14656.880830, best rearrangement setting 6
+Bootstrap[62]: Time 7.186602 seconds, bootstrap likelihood -14659.653016, best rearrangement setting 7
+Bootstrap[63]: Time 7.834751 seconds, bootstrap likelihood -14866.924826, best rearrangement setting 10
+Bootstrap[64]: Time 7.355646 seconds, bootstrap likelihood -14714.987709, best rearrangement setting 13
+Fast ML search on Process 4: Time 185.887979 seconds
+
+Slow ML Search 52 Likelihood: -14688.720405
+Slow ML Search 53 Likelihood: -14688.720405
+Slow ML search on Process 4: Time 88.684405 seconds
+Thorough ML search on Process 4: Time 46.207002 seconds
+
+processID = 4, bestLH = -14688.720070
+
+This is RAxML MPI Process Number: 2
+
+Time for BS model parameter optimization on Process 2: 4.883542 seconds
+Bootstrap[26]: Time 13.522468 seconds, bootstrap likelihood -14227.225473, best rearrangement setting 10
+Bootstrap[27]: Time 7.609807 seconds, bootstrap likelihood -14418.381866, best rearrangement setting 13
+Bootstrap[28]: Time 7.441916 seconds, bootstrap likelihood -13604.958758, best rearrangement setting 14
+Bootstrap[29]: Time 7.111783 seconds, bootstrap likelihood -13683.305182, best rearrangement setting 8
+Bootstrap[30]: Time 7.506360 seconds, bootstrap likelihood -14591.685185, best rearrangement setting 14
+Bootstrap[31]: Time 7.171676 seconds, bootstrap likelihood -14496.700560, best rearrangement setting 12
+Bootstrap[32]: Time 7.822577 seconds, bootstrap likelihood -14787.425778, best rearrangement setting 14
+Bootstrap[33]: Time 7.586846 seconds, bootstrap likelihood -15062.684481, best rearrangement setting 15
+Bootstrap[34]: Time 7.037277 seconds, bootstrap likelihood -14523.655233, best rearrangement setting 9
+Bootstrap[35]: Time 6.973949 seconds, bootstrap likelihood -14691.412598, best rearrangement setting 6
+Bootstrap[36]: Time 7.541758 seconds, bootstrap likelihood -14400.930127, best rearrangement setting 13
+Bootstrap[37]: Time 6.979026 seconds, bootstrap likelihood -14738.986984, best rearrangement setting 7
+Bootstrap[38]: Time 7.534819 seconds, bootstrap likelihood -15016.439752, best rearrangement setting 11
+Fast ML search on Process 2: Time 149.785499 seconds
+
+Slow ML Search 26 Likelihood: -14687.974969
+Slow ML Search 27 Likelihood: -14687.974969
+Slow ML search on Process 2: Time 86.141392 seconds
+Thorough ML search on Process 2: Time 53.418279 seconds
+
+processID = 2, bestLH = -14687.974980
+
+This is RAxML MPI Process Number: 3
+
+Time for BS model parameter optimization on Process 3: 4.890611 seconds
+Bootstrap[39]: Time 12.498510 seconds, bootstrap likelihood -14928.465235, best rearrangement setting 9
+Bootstrap[40]: Time 8.156907 seconds, bootstrap likelihood -14833.500489, best rearrangement setting 14
+Bootstrap[41]: Time 7.266399 seconds, bootstrap likelihood -14043.683393, best rearrangement setting 15
+Bootstrap[42]: Time 6.887954 seconds, bootstrap likelihood -14231.779876, best rearrangement setting 10
+Bootstrap[43]: Time 8.693942 seconds, bootstrap likelihood -14530.124182, best rearrangement setting 10
+Bootstrap[44]: Time 8.123081 seconds, bootstrap likelihood -14276.505088, best rearrangement setting 13
+Bootstrap[45]: Time 7.018529 seconds, bootstrap likelihood -15013.949021, best rearrangement setting 7
+Bootstrap[46]: Time 8.041495 seconds, bootstrap likelihood -14493.382648, best rearrangement setting 10
+Bootstrap[47]: Time 7.858874 seconds, bootstrap likelihood -13759.713339, best rearrangement setting 10
+Bootstrap[48]: Time 8.259058 seconds, bootstrap likelihood -14574.589739, best rearrangement setting 12
+Bootstrap[49]: Time 7.528942 seconds, bootstrap likelihood -14897.793282, best rearrangement setting 5
+Bootstrap[50]: Time 6.644740 seconds, bootstrap likelihood -14648.469099, best rearrangement setting 9
+Bootstrap[51]: Time 6.616831 seconds, bootstrap likelihood -14562.938760, best rearrangement setting 7
+Fast ML search on Process 3: Time 190.860902 seconds
+
+Slow ML Search 39 Likelihood: -14688.719658
+Slow ML Search 40 Likelihood: -14688.719658
+Slow ML search on Process 3: Time 88.072562 seconds
+Thorough ML search on Process 3: Time 40.190465 seconds
+
+processID = 3, bestLH = -14688.719683
+
+This is RAxML MPI Process Number: 0
+
+
+IMPORTANT WARNING: Sequences Forskalia_edwardsi_60544967 and Forskalia_edwardsi_60544966 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Agalma_elegans_60544925 and Agalma_elegans_60544952 are exactly identical
+
+IMPORTANT WARNING
+Found 2 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file siph16s.phy.reduced
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 633 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 27.93%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 633
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/gpfs/runtime/opt/raxml/8.0.22/avx/bin/raxmlHPC-MPI -f a -x 12345 -p 12345 -N 100 -m GTRGAMMA -s siph16s.phy -n boot100 
+
+
+
+Time for BS model parameter optimization on Process 0: 4.878461 seconds
+Bootstrap[0]: Time 12.645359 seconds, bootstrap likelihood -14748.725607, best rearrangement setting 13
+Bootstrap[1]: Time 7.211737 seconds, bootstrap likelihood -15473.937998, best rearrangement setting 13
+Bootstrap[2]: Time 8.838849 seconds, bootstrap likelihood -15260.245574, best rearrangement setting 12
+Bootstrap[3]: Time 7.684081 seconds, bootstrap likelihood -14390.044568, best rearrangement setting 15
+Bootstrap[4]: Time 7.390660 seconds, bootstrap likelihood -14450.764697, best rearrangement setting 10
+Bootstrap[5]: Time 8.231146 seconds, bootstrap likelihood -14590.998242, best rearrangement setting 10
+Bootstrap[6]: Time 7.913764 seconds, bootstrap likelihood -14570.981708, best rearrangement setting 6
+Bootstrap[7]: Time 7.787916 seconds, bootstrap likelihood -14891.593116, best rearrangement setting 14
+Bootstrap[8]: Time 7.281923 seconds, bootstrap likelihood -14959.307521, best rearrangement setting 5
+Bootstrap[9]: Time 7.173292 seconds, bootstrap likelihood -14263.747153, best rearrangement setting 7
+Bootstrap[10]: Time 7.348358 seconds, bootstrap likelihood -15295.262939, best rearrangement setting 7
+Bootstrap[11]: Time 8.343072 seconds, bootstrap likelihood -14402.326314, best rearrangement setting 5
+Bootstrap[12]: Time 7.653678 seconds, bootstrap likelihood -14920.140695, best rearrangement setting 8
+
+
+Overall Time for 104 Rapid Bootstraps 105.965536 seconds
+Average Time per Rapid Bootstrap 1.018899 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search on Process 0: Time 188.208217 seconds
+
+Slow ML Search 0 Likelihood: -14687.975311
+Slow ML Search 1 Likelihood: -14687.975310
+Slow ML optimization finished
+
+Slow ML search on Process 0: Time 86.272857 seconds
+Thorough ML search on Process 0: Time 53.253909 seconds
+
+processID = 0, bestLH = -14687.974532
