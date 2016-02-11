@@ -86,11 +86,12 @@ The files in the `run directory` include:
 Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the following questions (just add your answer on a lone below the question):
 
 #### Which clade has the longest branches?
-
+the clade containing the species Vogtia pentacantha, Vogtia glabra and Hippopodius hippopus
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
-
+1) 70
+2)it is placed as sister group of a clade containing Muggiaea, Sulcoleolaria, Lensia, Abylopsis, Diphyes and Chelophyes.
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
-
+As a sister taxa of the clade Nectoadamas + Nectropyramis, and as sister taxa of Chunyphies multidentata
 
 
 Once you have saved your answers, commit them with:
