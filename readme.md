@@ -87,7 +87,11 @@ Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the fol
 
 #### Which clade has the longest branches?
 
+The clade with the longest single branch is the one consisting of the descendants of the last common ancestor of Cordagalma cordiforme and Vogtia pentacantha, which has one extremely long branch separating the (Vogtia + Hippopodius) clade from C. cordiforme. However, the clade consisting of all descendants of the most recent common ancestor of Desmophyes haematogaster and Sphaeronectes gracilis has many long branches, the longest of which are longer than the second-longest branch in the (Cordagalma + Vogtia) clade. The longest branches are found in the former, but the longest branch is found in the latter. 
+
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
+
+Sphaeronectes is placed as the sister taxon of a clade comprised of all descendants of the most recent concestor of Muggiaea atlantica and Chelophyes appendiculata. The bootstrap support for this placement is 70, so it is not well-supported (bootstraph scores over 80 are considered well supported, according to Baum and Smith 2013).
 
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
 
