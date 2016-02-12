@@ -86,11 +86,11 @@ The files in the `run directory` include:
 Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the following questions (just add your answer on a lone below the question):
 
 #### Which clade has the longest branches?
-
+The clade containing Cordagalma cordiforme and Hippopodius hippopus.
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
-
+The bootstrap support is 2.1525. It is placed as the outgroup to the clade containing Chelophyes and Muggiaea.
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
-
+There are 104 different placements of Clausophyid_sp. Some of the placements are: close to Clausophyes_ovata, close to Abylopsis tetragona, close to Nectopyramis_natans, close to Stephalia_dilata, and close to Chuniphyes_multidentata.
 
 
 Once you have saved your answers, commit them with:
