@@ -86,10 +86,14 @@ The files in the `run directory` include:
 Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the following questions (just add your answer on a lone below the question):
 
 #### Which clade has the longest branches?
+# the Votia/Hippopodius clade appears to have the longest edge separating its contained species from the rest of the tree
+
 
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
+# Sphaeronectes is placed as the outgroup to a bipartition with bootstrap support of 100, but the bipartition just beneath it has a confidence value of only 70. This implies some uncertainty about the placement of Sphaeronectes. It could maybe be the outgroup to the Chuniphyes/Clausophyes clade.
 
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
+# sister to Stephalia dilata. sister to rosacea flaccida. sister to Nectopyramis natans. sister to Nect(o/a) clade. one node beneath Clausophyes/Chuniphyes. Many, many possibilities
 
 
 
