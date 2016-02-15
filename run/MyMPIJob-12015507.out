@@ -13,3 +13,6 @@ This is RAxML MPI Process Number: 0
 RAxML output files with the run ID <boot100> already exist 
 in directory /gpfs/scratch/guest310/siphonophore16s/run/ ...... exiting
 srun: error: node943: task 0: Exited with exit code 255
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: *** STEP 12015507.0 CANCELLED AT 2016-02-15T12:08:24 DUE TO TIME LIMIT on node943 ***
+slurmstepd: *** JOB 12015507 CANCELLED AT 2016-02-15T12:08:24 DUE TO TIME LIMIT on node943 ***
