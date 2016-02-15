@@ -86,8 +86,11 @@ The files in the `run directory` include:
 Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the following questions (just add your answer on a lone below the question):
 
 #### Which clade has the longest branches?
+Hippopodidae
 
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
+Bootstrap value of 70.
+Placed as sister group to the Diphyid-Abylid clade.
 
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
 
