@@ -87,11 +87,24 @@ Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the fol
 
 #### Which clade has the longest branches?
 
+The longest branch is the branch leading to the clade formed by the *Hippopodidae* 
+
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
+
+The booststrap support is 70. It is placed as sister taxa to the *Diphyidae*-*Abylidae* clade.
+
 
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
 
+After analyzing a good number ~20 (out of 104) of trees in the file, it is clear that Clausophyid_sp its a problematic taxon as its placed as sister taxa of different clades across the trees. Some examples of Clausophyid_sp sister taxa are: 
 
+1. Nectopyramidinae 
+2. Nectopyramidinae - Diphydae 
+3. Spheronectus - Nectopyramidinae - Diphydae
+4. Spheronectus - Clausophidea - Diphydae
+5. (Rosccea-Desmophyes)-(Chuniphyes-Diphydae)
+6. Chuniphyed - Diphydae
+7. Stephalia
 
 Once you have saved your answers, commit them with:
 
