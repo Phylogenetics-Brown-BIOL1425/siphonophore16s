@@ -109,7 +109,7 @@ The clade containing both *Desmophyes haematogaster* and *Sphaeronectes gracilis
 - *Stephanophyes superba*
 - *Physophora hydrostatica*, *Lychnagalma urticularia*, *Forskalia formosa*, *Vogtia pentacantha*, *Hippopodius hippopus*, *Vogtia glabra*, *Forskalia tholoides*, *Forskalia edwardsi*, *Forskalia asymmetrica*, *Gymnopraia lapislazula*, *Desmophyes haematogaster*, *Chuniphyes multidentata*, *Clausophyes ovata*, *Abylopsis tetragona*, *Diphyes dispar*, *Muggiaea atlantica*, *Lensia conoidea*, *Sulculeolaria quadrivalvis*, *Chelophyes appendiculata*, *Sphaeronectes gracilis*, *Rosacea flaccida*, *Stephanophyes superba*, *Halistemma rubrum*, *Nanomia bijuga*, *Athorybia rosacea*, *Agalma okeni*, *Agalma elegans*, *Agalma clausi*, *Nectopyramis natans*, *Nectadamas diomedae*, *Physalia physalis*, *Rhizophysa eysenhardi*, *Rhizophysa filiformis*
 - *Physophora hydrostatica*, *Lychnagalma urticularia*, *Forskalia formosa*, *Vogtia pentacantha*, *Hippopodius hippopus*, *Vogtia glabra*, *Forskalia tholoides*, *Forskalia edwardsi*, *Forskalia asymmetrica*, *Gymnopraia lapislazula*, *Desmophyes haematogaster*, *Chuniphyes multidentata*, *Clausophyes ovata*, *Abylopsis tetragona*, *Diphyes dispar*, *Muggiaea atlantica*, *Lensia conoidea*, *Sulculeolaria quadrivalvis*, *Chelophyes appendiculata*, *Sphaeronectes gracilis*, *Rosacea flaccida*, *Stephanophyes superba*, *Halistemma rubrum*, *Nanomia bijuga*, *Athorybia rosacea*, *Agalma okeni*, *Agalma elegans*, *Agalma clausi*, *Praya dubia* and *Apolemia sp.*
-- *Praya dubia*, *Nectadamas diomedae* and Nectopyramis natans*
+- *Praya dubia*, *Nectadamas diomedae* and *Nectopyramis natans*
 
 
 Once you have saved your answers, commit them with:
