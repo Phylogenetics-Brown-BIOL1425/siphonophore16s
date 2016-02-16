@@ -86,11 +86,30 @@ The files in the `run directory` include:
 Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the following questions (just add your answer on a lone below the question):
 
 #### Which clade has the longest branches?
+The clade containing both *Desmophyes haematogaster* and *Sphaeronectes gracilis* features some of the longest branches on the tree.
 
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
+*Sphaeronectes* shares a clade with *Muggiaea atlantica*, *Sulculeolaria quadrivalvis*, *Lensia conoidea*, *Abylopsis tetragona*, *Diphyes dispar*, and *Chesophyes appendiculata*. The bootstrap value given is 70, which means that 70 out of 100 sampled trees placed it in that clade, indicating moderate to high support. 
 
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
-
+*Clausophyid sp.* is placed in the following clades (among other similar ones)
+- *Nectadamas diomedae* and Nectopyramis natans*
+- *Abylopsis tetragona*, *Diphyes dispar*, *Chelophyes appendiculata*, *Lensia conoidea*, *Sulculeolaria quadrivalvis*, and *Muggiaea atlantica*
+- *Sphaeronectes gracilis*, *Chuniphyes multidentata*, *Clausophyes ovata*, *Abylopsis tetragona*, *Diphyes dispar*, *Chelophyes appendiculata*, *Lensia conoidea*, *Sulculeolaria quadrivalvis*, and *Muggiaea atlantica*
+- *Rosacea flaccida*, *Desmophyes haematogaster*, *Gymnopraia lapislazula*, *Sphaeronectes gracilis*, *Chuniphyes multidentata*, *Clausophyes ovata*, *Abylopsis tetragona*, *Diphyes dispar*, *Chelophyes appendiculata*, *Lensia conoidea*, *Sulculeolaria quadrivalvis*, and *Muggiaea atlantica*
+- *Stephalia dilata*
+- *Rosacea flaccida*
+- "Bargmannia amoena*, *Bargmannia elongata*, and *Apolemia sp.*
+- *Nectopyramis natans*
+- *Vogtia pentacantha*, *Hippopodius hippopus*, *Vogtia glabra*, and *Cordagalma cordiforme*
+- *Rosacea flaccida*, *Desmophyes haematogaster*, *Gymnopraia lapislazula*, *Sphaeronectes gracilis*, *Chuniphyes multidentata*, *Clausophyes ovata*, *Abylopsis tetragona*, *Diphyes dispar*, *Chelophyes appendiculata*, *Lensia conoidea*, *Sulculeolaria quadrivalvis*, *Muggiaea atlantica*, *Vogtia pentacantha*, *Hippopodius hippopus*, *Vogtia glabra*, and *Cordagalma cordiforme*
+- *Sphaeronectes gracilis*
+- *Praya dubia*, *Vogtia pentacantha*, *Hippopodius hippopus*, *Vogtia glabra*,  *Cordagalma cordiforme*, *Nectadamas diomedae* and Nectopyramis natans*
+- *Physophora hydrostatica*, *Lychnagalma urticularia*, *Forskalia formosa*, *Vogtia pentacantha*, *Hippopodius hippopus*, *Vogtia glabra*, *Forskalia tholoides*, *Forskalia edwardsi*, *Forskalia asymmetrica*, *Gymnopraia lapislazula*, *Desmophyes haematogaster*, *Chuniphyes multidentata*, *Clausophyes ovata*, *Abylopsis tetragona*, *Diphyes dispar*, *Muggiaea atlantica*, *Lensia conoidea*, *Sulculeolaria quadrivalvis*, *Chelophyes appendiculata*, *Sphaeronectes gracilis*, *Rosacea flaccida*, *Stephanophyes superba*, *Halistemma rubrum*, *Nanomia bijuga*, *Athorybia rosacea*, *Agalma okeni*, *Agalma elegans* and *Agalma clausi*
+- *Stephanophyes superba*
+- *Physophora hydrostatica*, *Lychnagalma urticularia*, *Forskalia formosa*, *Vogtia pentacantha*, *Hippopodius hippopus*, *Vogtia glabra*, *Forskalia tholoides*, *Forskalia edwardsi*, *Forskalia asymmetrica*, *Gymnopraia lapislazula*, *Desmophyes haematogaster*, *Chuniphyes multidentata*, *Clausophyes ovata*, *Abylopsis tetragona*, *Diphyes dispar*, *Muggiaea atlantica*, *Lensia conoidea*, *Sulculeolaria quadrivalvis*, *Chelophyes appendiculata*, *Sphaeronectes gracilis*, *Rosacea flaccida*, *Stephanophyes superba*, *Halistemma rubrum*, *Nanomia bijuga*, *Athorybia rosacea*, *Agalma okeni*, *Agalma elegans*, *Agalma clausi*, *Nectopyramis natans*, *Nectadamas diomedae*, *Physalia physalis*, *Rhizophysa eysenhardi*, *Rhizophysa filiformis*
+- *Physophora hydrostatica*, *Lychnagalma urticularia*, *Forskalia formosa*, *Vogtia pentacantha*, *Hippopodius hippopus*, *Vogtia glabra*, *Forskalia tholoides*, *Forskalia edwardsi*, *Forskalia asymmetrica*, *Gymnopraia lapislazula*, *Desmophyes haematogaster*, *Chuniphyes multidentata*, *Clausophyes ovata*, *Abylopsis tetragona*, *Diphyes dispar*, *Muggiaea atlantica*, *Lensia conoidea*, *Sulculeolaria quadrivalvis*, *Chelophyes appendiculata*, *Sphaeronectes gracilis*, *Rosacea flaccida*, *Stephanophyes superba*, *Halistemma rubrum*, *Nanomia bijuga*, *Athorybia rosacea*, *Agalma okeni*, *Agalma elegans*, *Agalma clausi*, *Praya dubia* and *Apolemia sp.*
+- *Praya dubia*, *Nectadamas diomedae* and *Nectopyramis natans*
 
 
 Once you have saved your answers, commit them with:
