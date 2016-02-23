@@ -97,6 +97,7 @@ The bootstrap support for *Sphaeronectes* is 70. This is not a strong boot strap
 With a Bootstrap value of 40, there are many various placements of *Clausophyid_sp* (104 to be exact).
 
 ![alt text](https://raw.githubusercontent.com/Biancabrown/siphonophore16s/master/1.png)
+
 Tree 1. In the above tree *Clausophyid_sp* is siter taxa to the clade which contains *Rosacea flaccida* *Lensia conoidea* etc. 
 
 ![alt text](https://raw.githubusercontent.com/Biancabrown/siphonophore16s/master/4.png)
