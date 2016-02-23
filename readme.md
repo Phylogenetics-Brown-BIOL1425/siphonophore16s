@@ -86,10 +86,36 @@ The files in the `run directory` include:
 Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the following questions (just add your answer on a lone below the question):
 
 #### Which clade has the longest branches?
+The clade with the longest branches consists of *Cordagaima cordiforme*, *Vogtia pentacantha*, *Vogtia glabra*, and *Hippopodius hippopus*.
+
 
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
+The bootstrap support for *Sphaeronectes* is 70. This is not a strong boot strap value. It is also the species with the longest branch length (0.8919). This suggest that there may have many SNP differences in the sequencing which resulted in the relatively poor botstrap value.
 
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
+
+With a Bootstrap value of 40, there are many various placements of *Clausophyid_sp* (104 to be exact).
+
+![alt text](https://raw.githubusercontent.com/Biancabrown/siphonophore16s/master/1.png)
+
+Tree 1. In the above tree *Clausophyid_sp* is siter taxa to the clade which contains *Rosacea flaccida* *Lensia conoidea* etc. 
+
+![alt text](https://raw.githubusercontent.com/Biancabrown/siphonophore16s/master/4.png)
+
+Tree 2. This tree shows is similar to the first except *Rosacea flaccida* is not included
+
+
+![alt text](https://raw.githubusercontent.com/Biancabrown/siphonophore16s/master/5.png)
+
+Tree 3. Is similar to tree 2 with the exception that the clade in which *Clausophyid_sp* is siter taxa to contains *Gymnopraia lapislazula*, and *Desomophyes haematogaster*
+
+
+![alt text](https://raw.githubusercontent.com/Biancabrown/siphonophore16s/master/3.png)
+
+Tree 4. In the above tree *Clausophyid_sp* is the sole siter taxa to the clade which contains *Stephalia dilata* which is not included in the first tree. 
+
+
+
 
 
 
