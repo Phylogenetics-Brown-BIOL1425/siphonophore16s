@@ -87,11 +87,15 @@ Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the fol
 
 #### Which clade has the longest branches?
 
+The clade containing Desmophyes_haematogaster_71725940, Rosacea_flaccida_60544941, and Gymnopraia_lapislazula_60544971 has the longest branches for every one of its members.
+
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
+
+The bootstrap support for the placement of Sphaeronectes is 70 out of 100 meaning 70 percent of the trees contained the bipartion. It is placed next to a clade containing Muggiaea_atlantica_60544949, Sulculeolaria_quadrivalvis_60544965, Sulculeolaria_quadrivalvis_60544942, Lensia_conoidea_60544972, Abylopsis_tetragona_60544957, Diphyes_dispar_60544930, and Chelophyes_appendiculata_60544958.
 
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
 
-
+The Clausophyid_sp was placed in a wide range of locations. It really varied based on each tree in the bootstrap.
 
 Once you have saved your answers, commit them with:
 
