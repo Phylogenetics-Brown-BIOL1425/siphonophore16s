@@ -86,11 +86,11 @@ The files in the `run directory` include:
 Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the following questions (just add your answer on a lone below the question):
 
 #### Which clade has the longest branches?
-
+The clade of Cordagalma, Vogtia, and Hippopodius (Cordagalma isn't that long but it had the one really long branch in it, and I wasn't sure how far back you have to define the clade)
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
-
+Bootstrap support of 70, so mdderately strong support. It's sister to the Muggiaea, Suiculeolaria, Lensia, Abylopsis, Diphyes, Chelophyes clade
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
-
+It does sort of hop around but it seems like the main patterns are sister to (or grouped with) Nectadamas and Nectopyramis, also with Stephanophyes and Sphaenonectes. Sometimes it was sister to Rosacea, and then I think the most often it was sister to a big clade of like 10 or so species that usually included Clausophyes, Chuniphyes, Chelophyes, Abylopsis, Diphyes, Muggiaea, Sulculeolaria, Lensia, and Sphaeronectes -- but anyways, that's just from flipping through looking at the trees and trying to jot down patterns I noticed, I'm sure there's a way more fancy high-tech hacker-style way of figuring it out more accurately. 
 
 
 Once you have saved your answers, commit them with:
