@@ -112,3 +112,14 @@ Click the green button that says "New pull request" and then, on the new page th
 ## Aditional resources
 
 The readme.md file is written in a language called [markdown](https://daringfireball.net/projects/markdown/syntax), which looks good as plain text and is automatically formatted for web view on GitHub. An intro to markdown gor GitHub is [here](https://guides.github.com/features/mastering-markdown/).
+
+Which clade has the longest branches?:
+The Cordagalma/Vogtia/Hippopodius clade has the longest branches.
+
+How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?:
+Sphaeronectes has moderately strong bootstrap support (70). It is placed as a sister taxa to the Muggiaea/Sulculeolaria/Lensia/Abylopsis/Diphyes/Chelophyes clade.
+
+Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`):
+In different trees, Clausophyid is usually sister to:
+Abylopsis_tetragona_60544957,Diphyes_dispar_60544930,Chelophyes_appendiculata_60544958,Lensia_conoidea_60544972,Sulculeolaria_quadrivalvis_60544942,Sulculeolaria_quadrivalvis_6054496,Muggiaea_atlantica_60544949,Sphaeronectes_gracilis_60544955, Chuniphyes_multidentata_60544947,Clausophyes_ovata_60544948
+But sometimes it is fewer to fewer taxa (e.g. Nectadamas_diomedeae_60544960,Nectopyramis_natans_60544961) or more (the first species listed plus Rosacea_flaccida_60544941 and Gymnopraia_lapislazula_60544971)
