@@ -86,11 +86,26 @@ The files in the `run directory` include:
 Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the following questions (just add your answer on a lone below the question):
 
 #### Which clade has the longest branches?
+	
+	The clade which includes the genuses voglia and hippopodius has the longest branch lengths.
 
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
+	
+	Sphaeronectes has a value of 70 in declaring it within the same clade as Muggiaea, Sulculeolania, Lensia, Albylopsis, Diphyes, and Chelophyes.
+	It has a value of 97 within the clade including the above with Chuniphyes and Clausophyes.
+	46 together with the above and Clausophyid_sp
+	10 together with  Stephanophyes_superbia
+	20 together with a clade containing Desmophyes, Rosacea, Gymnopraia
+	16 together with a clade containing Forskalia, Lychnogalma, and Physaphora
+	20 together with Nanomia, Halisfemma, Agalima, Atharbybia
+	4 together with Erenna, Stephanomia, Marrus, and Stephalia
+	18 together with Voglia, Hippopodius, Coragalma, Praya, and Nectadamas,
+	23 together with Bargamannia
+	91 together with Apolemia.
 
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
-
+	There are 2: Both within the clade below:
+	(Clausophyid_sp_60544959:0.23667622474583407954,((Chuniphyes_multidentata_60544947:0.20362326750987141954,Clausophyes_ovata_60544948:0.17057432066001371185)98:0.15017076119139921575,(((Muggiaea_atlantica_60544949:0.21234225476530763088,((Sulculeolaria_quadrivalvis_60544965:0.03450781287370051353,Sulculeolaria_quadrivalvis_60544942:0.06191474152287435029)99:0.20175747682881717271,Lensia_conoidea_60544972:0.19017018759411105644)95:0.13683181776913402872)74:0.09712967245947766448,((Abylopsis_tetragona_60544957:0.27984643523622720895,Diphyes_dispar_60544930:0.30652711156396478254)84:0.11799368791140064927,Chelophyes_appendiculata_60544958:0.68105051375060376984)40:0.02568943041039549458)100:0.43926249759804303352,Sphaeronectes_gracilis_60544955:0.89191666591692220223)70:0.16061390698631600182)97:0.25601226674915134041)46:0.07027351374464037292)10:0.03682884853187305685)
 
 
 Once you have saved your answers, commit them with:
