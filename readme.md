@@ -86,7 +86,7 @@ The files in the `run directory` include:
 Open `~/repos/siphonophore16s/readme.md` in your text editor, and answer the following questions (just add your answer on a lone below the question):
 
 #### Which clade has the longest branches?
-The clade containing Cordagalma cordiforme and Hippopodius hippopus.
+The clade containing Cordagalma cordiforme and Hippopodius hippopus contains the longest branch, which occurs leading up to the clade containing Vogtia pentacantha and Hippopodius hippos. The clade containing Muggiaea atlantic and Sphaeronectes gracilis contains the longest branches on average compared to the other clades.
 #### How strong is the bootstrap support for the placement of Sphaeronectes? Where is it placed?
 The bootstrap support is 2.1525. It is placed as the outgroup to the clade containing Chelophyes and Muggiaea.
 #### Bonus: What are the various placements of Clausophyid_sp (hint: you'll need to look in `RAxML_bootstrap.boot100`)
